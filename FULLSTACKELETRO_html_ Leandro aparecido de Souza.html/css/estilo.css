@@ -1,0 +1,48 @@
+
+
+
+.logprinc{
+    background-image: url("./logofullstackeletro.jpg");
+    background-repeat: no-repeat;
+    background-size: 630px;
+    background-position-x: center;
+    background-position-y: 44%;
+    background-attachment: fixed;
+    }
+
+.fundo2{
+    background-image: url("./logmaps2.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+    background-attachment: fixed;
+    image-rendering: auto; 
+    background-position-x: right;
+    background-position-y: 70%;
+    }
+
+        
+.fundo3{
+    background-image: url("./capa1.jpg");
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position-x:center;
+    background-position-y: 90%;
+    background-attachment: fixed;
+    image-rendering: auto;    
+    }
+
+             
+.menu{
+    background-color: rgb(106, 224, 224);
+    font-weight: bolder;
+    width: 100%;
+    align-items: center;
+    font-weight: bolder;
+    font-size: larger;  
+     }
+    
+.h2{ 
+    font style="color:rgb(212, 226, 12);
+    font-weight: bolder;
+    }
